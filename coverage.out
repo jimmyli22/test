@@ -1,0 +1,18 @@
+mode: set
+localhost/test/main.go:3.14,5.2 0 0
+localhost/test/a/a.go:3.18,5.2 1 0
+localhost/test/a/a.go:7.18,9.2 1 0
+localhost/test/a/a.go:11.18,13.2 1 0
+localhost/test/a/a.go:15.18,17.2 1 0
+localhost/test/a/a.go:19.18,21.2 1 0
+localhost/test/a/a.go:23.18,25.2 1 0
+localhost/test/a/a.go:27.18,29.2 1 0
+localhost/test/a/a.go:31.18,33.2 1 0
+localhost/test/b/b.go:3.18,5.2 1 1
+localhost/test/b/b.go:7.18,9.2 1 1
+localhost/test/b/b.go:11.18,13.2 1 1
+localhost/test/b/b.go:15.18,17.2 1 1
+localhost/test/b/b.go:19.18,21.2 1 0
+localhost/test/b/b.go:23.18,25.2 1 0
+localhost/test/b/b.go:27.18,29.2 1 0
+localhost/test/b/b.go:31.18,33.2 1 0
